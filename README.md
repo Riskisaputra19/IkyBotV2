@@ -80,8 +80,8 @@ ___
 ```
 ## CARA INSTALL DI RDP
 ```bash
-> git clone https://github.com/KizakiXD/zakbotz02 
-> cd zakbotzv02
+> git clone https://github.com/Riskisaputra19/IkyBotV2 
+> cd IkyBotv2
 > npm i
 > npm update
 > npm start/node main.js
